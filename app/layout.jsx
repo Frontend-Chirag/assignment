@@ -1,4 +1,5 @@
-import { Navbar } from "@/components";
+import { Navbar } from "../components";
+
 export const metadata = {
     title: 'Next Assignment',
     description: 'Next Assigment for interview'

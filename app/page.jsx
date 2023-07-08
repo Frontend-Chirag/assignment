@@ -1,4 +1,5 @@
-import { PostCard } from '@/components';
+
+import { PostCard } from '../components';
 import '../styles/global.css';
 
 
